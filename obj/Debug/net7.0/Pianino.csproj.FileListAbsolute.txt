@@ -1,0 +1,14 @@
+C:\Users\lenci\source\repos\Pianino\bin\Debug\net7.0\Pianino.exe
+C:\Users\lenci\source\repos\Pianino\bin\Debug\net7.0\Pianino.deps.json
+C:\Users\lenci\source\repos\Pianino\bin\Debug\net7.0\Pianino.runtimeconfig.json
+C:\Users\lenci\source\repos\Pianino\bin\Debug\net7.0\Pianino.dll
+C:\Users\lenci\source\repos\Pianino\bin\Debug\net7.0\Pianino.pdb
+C:\Users\lenci\source\repos\Pianino\obj\Debug\net7.0\Pianino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenci\source\repos\Pianino\obj\Debug\net7.0\Pianino.AssemblyInfoInputs.cache
+C:\Users\lenci\source\repos\Pianino\obj\Debug\net7.0\Pianino.AssemblyInfo.cs
+C:\Users\lenci\source\repos\Pianino\obj\Debug\net7.0\Pianino.csproj.CoreCompileInputs.cache
+C:\Users\lenci\source\repos\Pianino\obj\Debug\net7.0\Pianino.dll
+C:\Users\lenci\source\repos\Pianino\obj\Debug\net7.0\refint\Pianino.dll
+C:\Users\lenci\source\repos\Pianino\obj\Debug\net7.0\Pianino.pdb
+C:\Users\lenci\source\repos\Pianino\obj\Debug\net7.0\Pianino.genruntimeconfig.cache
+C:\Users\lenci\source\repos\Pianino\obj\Debug\net7.0\ref\Pianino.dll
